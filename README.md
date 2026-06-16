@@ -14,7 +14,7 @@
 
 **A free, blazing-fast AI prompt studio in your browser. No sign-up. No API key needed. Just results.**
 
-🌐 **Live Demo:** `[to be filled]`
+🌐 **Live Demo:** [ai-prompt-studio-ai.netlify.app](https://ai-prompt-studio-ai.netlify.app)
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -103,7 +103,24 @@ src/
 
 ## Screenshots
 
-<!-- Add screenshots here -->
+<table>
+  <tr>
+    <td align="center"><b>Landing Page</b></td>
+    <td align="center"><b>Studio — Streaming Response</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/landing-dark.png" alt="Landing Page Dark Mode" /></td>
+    <td><img src="screenshots/studio-streaming.png" alt="Studio Streaming Response" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Studio — Welcome Screen</b></td>
+    <td align="center"><b>Compare Mode</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/studio-welcome.png" alt="Studio Welcome Light Mode" /></td>
+    <td><img src="screenshots/studio-compare.png" alt="Compare Mode" /></td>
+  </tr>
+</table>
 
 ---
 
